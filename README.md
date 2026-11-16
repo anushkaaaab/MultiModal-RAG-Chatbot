@@ -120,9 +120,9 @@ GenAI-Chatbot-Local/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anushkaaaab/GenAI-Chatbot-Local-.git
+git clone https://github.com/anushkaaaab/MultiModal-RAG-Chatbot.git
 
-cd GenAI-Chatbot-Local-
+cd MultiModal-RAG-Chatbot
 ```
 
 ### 2. Create a Virtual Environment
